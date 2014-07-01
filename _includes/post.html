@@ -1,0 +1,17 @@
+{% assign author = site.authors[page.author] %}
+<article>
+  <h1><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
+  <div class="metadata">
+    <hr>
+    <p class="author">{{ author.name }}</p>
+    <time datetime="{{ page.date | date: '%Y-%m-%d'}}">{{ page.date | date: '%d %m %Y' }}</time>
+  </div>
+
+  <section class="body">
+    {% if content %}
+      {{ content }}
+    {% else %}
+      {{ page.content }}
+    {% endif %}
+  </section>
+</article>

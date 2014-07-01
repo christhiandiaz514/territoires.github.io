@@ -1,0 +1,33 @@
+# Site settings
+title: Territoires
+email: info@territoires.coop
+description: "Territoires conçoit de succulents outils numériques qui contribuent au développement culturel et social des territoires."
+baseurl: ""
+url: "http://territoires.coop"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Frontmatter defaults
+defaults:
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"
+
+# Authors
+authors:
+  etienne:
+    name: Étienne Després
+    email: etienne@territoires.coop
+  simon:
+    name: Simon Emmanuel Roux
+    email: simon@territoires.coop
+  vincent:
+    name: Vincent Chapdelaine
+    email: vincent@territoires.coop
+  antoine:
+    name: Antoine Roy Larouche
+    email: antoine@territoires.coop
