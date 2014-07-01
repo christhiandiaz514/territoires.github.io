@@ -1,0 +1,14 @@
+<ul class="menu">
+  <li{% if page.url == '/a-propos/' %} class="current"{% endif %}>
+    <a href="/a-propos">À propos</a>
+  </li>
+  <li{% if page.url == '/' or page.layout == 'post' %} class="current"{% endif %}>
+    <a href="/">Blogue</a>
+  </li>
+  <li{% if page.url == '/membres/' %} class="current"{% endif %}>
+    <a href="/membres">Membres</a>
+  </li>
+  <li{% if page.url == '/contact/' %} class="current"{% endif %}>
+    <a href="/contact">Contact</a>
+  </li>
+</ul>

@@ -74,12 +74,11 @@ main.content {
 }
 
 article {
-  margin-bottom: 4em;
+  margin: 54px 0 4em;
   
   & > h1 {
     font-size: 25px;
     line-height: 1.32;
-    margin-top: 54px;
   
     a {
       color: $text-color;
