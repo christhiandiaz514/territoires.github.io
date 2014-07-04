@@ -25,12 +25,12 @@ body {
 
 a {
   color: $accent-color;
-  transition: color 0.2s ease;
-  border-bottom: 1px solid transparentize($accent-color, 1);
+  transition: color 0.1s ease;
+  border-bottom: 2px solid transparentize($accent-color, 1);
   
   &:hover {
     color: darken($accent-color, 10);
-    border-color: transparentize($accent-color, 0.4);
+    border-color: transparentize($accent-color, 0.6);
   }
 }
 

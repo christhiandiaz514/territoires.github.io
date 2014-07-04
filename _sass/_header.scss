@@ -3,7 +3,7 @@ body.home {
     display: block;
   }
   
-  .logo {
+  #logo {
     width: 135px;
   }
 }
@@ -28,20 +28,29 @@ header {
 
 .description {
   display: none;
-  margin: 32px 0 0;
+  padding: 32px 0 0;
   font-size: 1.786em;
   line-height: 1.32;
   text-decoration: none;
   color: white;
 }
 
-.logo {
+#logo {
   display: block;
   width: 80px;
   height: auto;
   overflow: hidden;
   background-image: url('../images/topo.png');
   background-attachment: fixed;
+  
+  image-rendering:optimizeSpeed;             /* Legal fallback */
+  image-rendering:-moz-crisp-edges;          /* Firefox        */
+  image-rendering:-o-crisp-edges;            /* Opera          */
+  image-rendering:-webkit-optimize-contrast; /* Safari         */
+  image-rendering:optimize-contrast;         /* CSS3 Proposed  */
+  image-rendering:crisp-edges;               /* CSS4 Proposed  */
+  image-rendering:pixelated;                 /* CSS4 Proposed  */
+  -ms-interpolation-mode:nearest-neighbor;   /* IE8+           */
 
   img {
     display: block;
@@ -55,25 +64,31 @@ only screen and (-moz-min-device-pixel-ratio: 2),
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (min-device-pixel-ratio: 2),
 only screen and (min-resolution: 192dpi),
-only screen and (min-resolution: 2dppx) { 
-  .logo {
+only screen and (min-resolution: 2dppx) {
+  #logo {
     background-image: url('../images/topo@2x.png');
   }
 }
 
-
 @media only screen and (min-width: $medium-breakpoint) {
   body.home {
     header .container {
-      margin-bottom: 140px;
+      height: auto;
     }
     
-    .logo {
-      width: 23.5%;
+    #logo {
+      width: 181px;
     }
     
     header {
       background-position: center bottom;
+    }
+    
+    .description {
+      padding-top: 215px;
+      padding-bottom: 135px;
+      font-size: 40px;
+      line-height: 1.3;
     }
   }
 
@@ -85,19 +100,14 @@ only screen and (min-resolution: 2dppx) {
 
   header .container {
     position: relative;
-    margin-bottom: 100px;
+    height: 180px;
   }
   
-  .logo {
+  #logo {
     width: 106px;
+    position: fixed;
   }
   
-  .description {
-    margin-top: 40px;
-    font-size: 40px;
-    line-height: 1.3;
-  }
-
   header ul.menu {
     position: absolute;
     top: 0;
@@ -107,18 +117,23 @@ only screen and (min-resolution: 2dppx) {
 
 @media only screen and (min-width: $large-breakpoint) {
   body.home {
-    .logo {
+    #logo {
       width: 219px;
     }
     
     header .container {
-      margin-bottom: 170px;
+      padding-left: 160px;
+    }
+    
+    .description {
+      padding-top: 260px;
+      padding-bottom: 160px;
     }
   }
   
   header .container {
-    margin: 0 auto 130px;
-    padding-left: 160px;
+    margin: 0 auto;
+    height: 210px;
     width: 960px;
   }
 }
