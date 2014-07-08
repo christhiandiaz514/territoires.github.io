@@ -106,6 +106,7 @@ only screen and (min-resolution: 2dppx) {
   #logo {
     width: 106px;
     position: fixed;
+    z-index: 100;
   }
   
   header ul.menu {
