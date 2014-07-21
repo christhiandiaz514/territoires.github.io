@@ -1,14 +1,21 @@
 <ul class="menu">
-  <li{% if page.url == '/a-propos/' %} class="current"{% endif %}>
-    <a href="/a-propos">À propos</a>
+  {% for item in site.t[language].menu %}
+  {% if page.url == item[1].link %}
+    {% assign current_page = item[0] %}
+    {% assign is_current = true %}
+  {% else %}
+    {% assign is_current = false %}
+  {% endif %}
+  <li{% if is_current == true %} class="current"{% endif %}>
+    <a href="{{ item[1].link }}">{{ item[1].title }}</a>
   </li>
-  <li{% if page.url == '/' or page.layout == 'post' %} class="current"{% endif %}>
-    <a href="/">Blogue</a>
-  </li>
-  <li{% if page.url == '/membres/' %} class="current"{% endif %}>
-    <a href="/equipe">Equipe</a>
-  </li>
-  <li{% if page.url == '/contact/' %} class="current"{% endif %}>
-    <a href="/contact">Contact</a>
+  {% endfor %}
+  <li class="secondary">
+    {% if language == 'fr' %}
+      <a href="{{ site.t.en.menu[current_page].link }}">English</a>
+    {% else %}
+      <a href="{{ site.t.fr.menu[current_page].link }}">Français</a>
+    {% endif %}
+    </a>
   </li>
 </ul>

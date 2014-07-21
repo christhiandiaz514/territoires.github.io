@@ -3,7 +3,13 @@
     <div id="logo">
       <a href="/"><img src="/images/logo.png" alt="Logo Territoires"></a>
     </div>
-    <p class="description">{{ site.description }}</p>
+    <p class="description">
+      {% if language == 'en' %}
+        {{ site.t.en.description }}
+      {% else %}
+        {{ site.description }}
+      {% endif %}
+    </p>
     {% include menu.html %}
   </div>
 </header>

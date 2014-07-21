@@ -1,6 +1,6 @@
 ---
 layout: page
-header_title: "Équipe"
+header_title: "Team"
 ---
 
 Dignissim sit amet orci. Donec eu eleifend libero, vel vestibulum neque. Proin adipiscing urna quis odio suscipit pellentesque. Sed dui enim, facilisis a pharetra non, volutpat euismod augue. Donec luctus diam quis neque rutrum rhoncus. Curabitur fermentum, sapien at hendrerit convallis, elit lacus hendrerit libero, in posuere mauris justo nec purus.

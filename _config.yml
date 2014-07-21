@@ -17,6 +17,38 @@ defaults:
     values:
       layout: "post"
 
+# Translation
+t:
+  fr:
+    menu:
+      blog:
+        title: Blogue
+        link: '/'
+      about: 
+        title: À propos
+        link: '/a-propos/'
+      team:
+        title: Équipe
+        link: '/equipe/'
+      contact:
+        title: Contact
+        link: '/contact/'
+  en:
+    description: "Territoires creates delectable digital tools that contribute to the social and cultural development of territories."
+    menu:
+      blog:
+        title: Blog
+        link: '/en/'
+      about: 
+        title: About
+        link: '/en/about/'
+      team:
+        title: Team
+        link: '/en/team/'
+      contact:
+        title: Contact
+        link: '/en/contact/'
+
 # Authors
 authors:
   etienne:

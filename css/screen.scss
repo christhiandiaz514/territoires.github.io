@@ -53,6 +53,10 @@ strong {
     border-bottom-style: solid;
     display: block;
   }
+  
+  li.secondary {
+    font-weight: 400;
+  }
 }
 
 .container {
@@ -84,6 +88,10 @@ strong {
     
     a:hover {
       border-bottom: 2px solid transparentize(white, 0.5);
+    }
+    
+    li.secondary a:hover {
+      border-bottom: 1px solid transparentize(white, 0.5);
     }
   }
 }
