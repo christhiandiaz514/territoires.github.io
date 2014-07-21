@@ -15,5 +15,5 @@ window.onscroll = function(event) {
   } else {
     logo.className = "";
   }
-  logo.style.backgroundPosition = "0 -" + Math.round(windowOffset / 2) + "px";
+  logo.style.backgroundPosition = "0 -" + Math.round(windowOffset / 4) + "px";
 }
