@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Territoire est à la recherche d'une développeuse Python ou Ruby ou autre"
+title:  "Territoires est à la recherche d'une développeuse (Python, Ruby ou autre)"
 date:   2014-08-11 9:00:00
 author: etienne
 ---
