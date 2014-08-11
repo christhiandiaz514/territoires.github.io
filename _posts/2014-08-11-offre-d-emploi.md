@@ -9,7 +9,7 @@ Territoires est à la recherche d'un ou d'une développeuse afin de superviser l
 
 Territoires étant en démarrage, les principaux choix technologiques, tels que le langage de programmation, n'ont pas encore été effectuée. Nous souhaitons impliquer dans cette discussion une personne expérimentée qui agira comme lead développeuse du projet, à titre de membre travailleure de la coopérative.
 
-La coopérative est pour l'instant formée de [4 membres travailleurs](/equipe/). Les bureaux de Territoires sont dans le Mile-End, dans un espace partagé avec une vingtaine de personnes sympathiques, et parfois un chien et un lapin.
+Les bureaux de Territoires sont dans le Mile-End, dans un espace partagé avec une vingtaine de personnes sympathiques, et parfois un chien et un lapin.
 
 En vrac:
 
