@@ -13,9 +13,9 @@ Les bureaux de Territoires sont dans le Mile-End, dans un espace partagé avec u
 
 En vrac:
 
-+ Salaire de XX$/heure + XX$/heure en part privilégiée
-+ Temps partiel ou temps plein, selon les disponibilités de la personne
-+ Horaire flexible
-+ Environnement de travail enchanteur, avec une vue imprenable sur le territoire montréalais
++ Salaire de XX$/heure + XX$/heure en part privilégiée;
++ Temps partiel ou temps plein, selon les disponibilités de la personne;
++ Horaire flexible;
++ Environnement de travail enchanteur, avec une vue imprenable sur le territoire montréalais.
 
 Les personnes intéressées sont invitées à [nous contacter](/contact) avant le 1er septembre 2014.
