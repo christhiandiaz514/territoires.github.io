@@ -18,4 +18,4 @@ En vrac:
 + Horaire flexible
 + Environnement de travail enchanteur, avec une vue imprenable sur le territoire montréalais
 
-Les personnes intéressées sont invitées à [Nous contacter](/contact) avant le 1er septembre 2014.
+Les personnes intéressées sont invitées à [nous contacter](/contact) avant le 1er septembre 2014.
