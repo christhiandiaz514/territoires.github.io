@@ -2,7 +2,7 @@
 layout: post
 title:  "Territoires est à la recherche d'une développeuse (Python, Ruby ou autre)"
 date:   2014-08-11 9:00:00
-author: vincentac
+author: vincent
 ---
 
 Territoires est à la recherche d'une développeuse afin de diriger le développement du back-end de Caligram, la première plateforme de Territoires, qui permettra d'outiller organisations, collectivités et communautés de partout avec d'excellents calendriers d'événements en ligne. Il s'agira d'un logiciel libre réalisé dans la volonté de contribuer au bien de l'humanité par la libre circulation de l'information événementielle.
