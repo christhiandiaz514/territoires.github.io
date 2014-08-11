@@ -7,7 +7,7 @@ author: vincent
 
 Territoires est à la recherche d'une développeuse afin de diriger le développement du back-end de Caligram, un service qui permettra d'outiller organisations, collectivités et communautés de partout avec d'excellents calendriers d'événements. Il s'agira d'un logiciel libre réalisé dans la volonté de contribuer au bien de l'humanité par la libre circulation de l'information événementielle.
 
-Territoires étant en démarrage, les principaux choix technologiques, tels que le langage de programmation, n'ont pas encore été arrêtés. Nous souhaitons impliquer dans cette discussion une personne expérimentée qui agira comme lead développeuse du projet, à titre de membre travailleure de la coopérative.
+Les principaux choix technologiques de Caligram, tels que le langage de programmation, n'ont pas encore été arrêtés. Nous souhaitons impliquer dans cette discussion une personne expérimentée qui agira comme lead développeuse du projet, à titre de membre travailleure de la coopérative.
 
 Les bureaux de Territoires sont dans le Mile-End, dans un espace partagé avec une vingtaine de personnes sympathiques, un chien et un lapin.
 
