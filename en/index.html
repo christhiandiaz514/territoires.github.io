@@ -6,5 +6,7 @@ language: en
 ---
 
 {% for page in site.posts %}
-  {% include post.html %}
+  {% if page.lang and page.lang == 'en' %}
+    {% include post.html %}
+  {% endif %}
 {% endfor %}

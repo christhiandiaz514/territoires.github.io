@@ -5,5 +5,7 @@ header_title: "Blogue"
 ---
 
 {% for page in site.posts %}
-  {% include post.html %}
+  {% if page.lang and page.lang == 'fr' %}
+    {% include post.html %}
+  {% endif %}
 {% endfor %}
