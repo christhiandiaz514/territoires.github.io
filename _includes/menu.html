@@ -10,6 +10,7 @@
     <a href="{{ item[1].link }}">{{ item[1].title }}</a>
   </li>
   {% endfor %}
+  {% comment %}
   <li class="secondary">
     {% if language == 'fr' %}
       <a href="{{ site.t.en.menu[current_page].link }}">English</a>
@@ -18,4 +19,5 @@
     {% endif %}
     </a>
   </li>
+  {% endcomment %}
 </ul>
