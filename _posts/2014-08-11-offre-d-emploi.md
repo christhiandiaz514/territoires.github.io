@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "À la recherche d'un ou d’une développeuse (Python, Ruby ou autre)"
+title:  "À la recherche d'un ou d’une développeuse (Python, Ruby, PHP ou autre)"
 date:   2014-08-11 9:00:00
 author: vincent
 ---
