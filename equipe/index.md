@@ -15,4 +15,3 @@ Membres travailleurs:
 Membres de soutien:
 
 + [Espaces temps](https://espacestemps.ca)
-+ [WeMakeCustom](http://wemakecustom.com)
