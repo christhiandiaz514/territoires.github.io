@@ -7,4 +7,4 @@ Territoires crée des outils numériques qui contribuent au développement cultu
 
 La coopérative se concentre sur le développement d'une famille de plateformes web qui permettent d'outiller organisations, citoyens et collectivités afin de visualiser et diffuser l'information qui témoigne de la vitalité des territoires, de manière structurée et ouverte.
 
-Territoires est une coopérative de solidarité fondée à Montréal à l'automne&nbsp;2014.
+Territoires est une coopérative de solidarité fondée à Montréal à l'automne&nbsp;2013.

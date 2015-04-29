@@ -15,4 +15,3 @@ Working members:
 Supporting members:
 
 + [Espaces temps](https://espacestemps.ca)
-+ [WeMakeCustom](http://wemakecustom.com)
