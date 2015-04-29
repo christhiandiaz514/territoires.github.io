@@ -8,7 +8,7 @@ lang: fr
 
 Territoires est à la recherche d'un être humain qui s'intégrera à l'équipe de développement de Caligram, un service qui permettra d'outiller organisations, collectivités et communautés de partout avec d'excellents calendriers d'événements. Il s'agira d'un logiciel libre réalisé dans la volonté de contribuer au bien commun par la libre circulation de l'information événementielle.
 
-Le projet est une application web basée sur le framework Laravel. La personne candidate doit avoir une excellente connaissance avec PHP, Javascipt, et être familière avec Laravel.
+Le projet est une application web basée sur le framework Laravel. La personne candidate doit avoir une excellente connaissance de PHP, Javascipt, et être familière avec Laravel.
 
 Les bureaux de Territoires sont dans le Mile End, dans un espace partagé avec une vingtaine de personnes sympathiques.
 
