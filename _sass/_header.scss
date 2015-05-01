@@ -69,6 +69,7 @@ only screen and (min-resolution: 192dpi),
 only screen and (min-resolution: 2dppx) {
   #logo {
     background-image: url('../images/topo@2x.png');
+    background-size: 300px 300px;
   }
 }
 
