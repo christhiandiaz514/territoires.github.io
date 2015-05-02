@@ -6,7 +6,7 @@ author: vincent
 lang: fr
 ---
 
-Territoires est à la recherche d'un être humain qui s'intégrera à l'équipe de développement de Caligram, un service qui permettra d'outiller organisations, collectivités et communautés de partout avec d'excellents calendriers d'événements. Il s'agira d'un logiciel libre réalisé dans la volonté de contribuer au bien commun par la libre circulation de l'information événementielle. Le développement est déjà bien entamé.
+Territoires est à la recherche d'un être humain qui s'intégrera à l'équipe de développement de Caligram, un service qui permettra d'outiller organisations, collectivités et communautés de partout avec d'excellents calendriers d'événements. Il s'agira d'un logiciel libre réalisé dans la volonté de contribuer au bien commun par la libre circulation de l'information événementielle. Le développement de Caligram est déjà bien entamé.
 
 Le projet est une application web basée sur le framework Laravel. La personne candidate doit avoir une excellente connaissance de PHP, Javascipt, et être familière avec Laravel, git et composer. Points bonus pour avoir déjà travaillé avec un framework JS moderne comme AngularJS, Ember, React, ou autre. 
 
