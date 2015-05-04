@@ -12,7 +12,7 @@ Le projet est une application web basée sur le framework Laravel. La personne c
 
 Nous serions heureux de pouvoir embaucher une personne d'expérience, mais nous sommes aussi ouverts aux personnes qui débutent et qui sont très motivées.
 
-Les bureaux de Territoires sont dans le Mile End, dans un espace partagé avec une vingtaine de personnes sympathiques.
+Les bureaux de Territoires sont dans le Mile-End, dans un espace partagé avec une vingtaine de personnes sympathiques. Le travail à distance est toutefois possible.
 
 En vrac:
 
