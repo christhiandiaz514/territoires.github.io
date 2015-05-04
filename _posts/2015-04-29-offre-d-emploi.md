@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Offre d'emploi: développeuse PHP"
+title:  "Offre d'emploi: développeuse ou développeur PHP"
 date:   2015-04-29 9:00:00
 author: vincent
 lang: fr
